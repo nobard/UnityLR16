@@ -1,2 +1,2 @@
 ## Video
-[Video]https://youtu.be/98QQxHxTzs4
+[Video](https://youtu.be/98QQxHxTzs4)
